@@ -1,6 +1,5 @@
 # Dead-911
-### Join my discord for any support needed
-### https://discord.gg/m39AUuSatU
+[![Developer Discord]](https://discord.gg/m39AUuSatU)
 
 ## What is it?
 
